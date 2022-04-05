@@ -1,7 +1,3 @@
-﻿/**
- * @modified $Author: 牟少峰 $
- * @version $Rev: 14db22da5842c470e8ab71efb38fc05bcb6c6d67 $
- */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {
 	margin: 0;
 	padding: 0
@@ -9,7 +5,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,
 
 body {
 	color: #000;
-	background: #fff;
+	background: #edf2f7;
 	font: 13px/20px "Microsoft YaHei","微软雅黑",helvetica,arial,verdana,tahoma,sans-serif
 }
 
@@ -135,7 +131,7 @@ input::-ms-clear {
 .tui-dialog {
 	background: #fff;
 	position: absolute;
-	top: -10000px;
+	top: -960px;
 	border: 1px solid #f1f3f7;
 	border-radius: 2px;
 	box-shadow: 0 3px 9px rgba(0,0,0,.3)
@@ -1237,7 +1233,7 @@ input::-ms-clear {
 }
 
 body {
-	background-color: #f6f6f6
+	background-color: #edf2f7;
 }
 
 .mod {
@@ -1507,7 +1503,7 @@ body {
 
 .yk-pack .p-thumb .ico-hot,.yk-pack .p-thumb .ico-ispremiere,.yk-pack .p-thumb .ico-ischoice,.yk-pack .p-thumb .ico-issole,.yk-pack .p-thumb .ico-ismade,.yk-pack .p-thumb .ico-isproduct {
 	display: inline-block;
-	background: url(../images/g_0c02dfd.png) no-repeat;
+	background: #fff;
 	width: 43px;
 	height: 43px;
 	vertical-align: middle
@@ -2125,7 +2121,7 @@ body {
 }
 
 .pack-film .p-thumb:hover a {
-	background: url(../images/pack_hover_play3_871b12b.png) 50% 50% no-repeat
+	background:#fff;
 }
 
 .pack-film .pos-bottom {
@@ -3002,7 +2998,7 @@ body {
 	top: 11px;
 	width: 16px;
 	height: 16px;
-	background: url(../images/header_3091d80.png) -133px -189px no-repeat
+	background: #fff;
 }
 
 .g-so .g-so-box {
@@ -3036,7 +3032,7 @@ body {
 	border: 0;
 	font-size: 13px;
 	font-family: "\5FAE\8F6F\96C5\9ED1";
-	background: url(../images/header_3091d80.png) 0 -315px #2fb3ff no-repeat;
+	background: #fff:
 	outline: 0;
 	cursor: pointer
 }
@@ -3048,7 +3044,7 @@ body {
 	top: 0;
 	right: 88px;
 	z-index: 2;
-	background: url(../images/172c31b603f84448a4fefa6a08387ae8.gif) no-repeat left center
+	background: #fff;
 }
 
 .g-header-fixed .g-header-container {
@@ -3095,7 +3091,7 @@ body {
 	position: relative;
 	margin: 0 auto;
 	padding: 0 10px;
-	max-width: 1440px;
+	max-width: 960px;
 	min-width: 1200px;
 	height: 60px
 }
@@ -3119,7 +3115,7 @@ body {
 	width: 8px;
 	height: 8px;
 	font-size: 0;
-	background: url(../images/header_3091d80.png) -130px 0 no-repeat
+	background: #fff:
 }
 
 .g-header .g-head-nav {
@@ -3196,7 +3192,7 @@ body {
 	height: 20px;
 	margin-right: -2px;
 	margin-top: -2px;
-	background: url(../images/header_3091d80.png) no-repeat;
+	background: #fff;
 	vertical-align: middle
 }
 
@@ -4786,10 +4782,10 @@ body {
 }
 
 .yk-content .mod-new {
-	padding: 20px 0 20px 20px;
+	padding:20px 20px 20px 20px;
 	background-color: #fff;
-	box-shadow: 0 0 8px 1px #e4e5e6;
-	MARGIN-TOP:30PX;
+	box-shadow: 0 0 8px 1px #ddd;
+	MARGIN-TOP:20PX;
 }
 
 .yk-content .mod-new .h {
@@ -4818,8 +4814,8 @@ body {
 	vertical-align: middle;
 	height: 20px;
 	width: 10px;
-	background: url(../images/g_0c02dfd.png) no-repeat -103px -26px;
-	margin-left: 18px
+	background:#fff;
+	margin-left: 18px;
 }
 
 .yk-content .mod-new .h h1 a:hover,.yk-content .mod-new .h h2 a:hover,.yk-content .mod-new .h h3 a:hover,.yk-content .mod-new .h h4 a:hover {
@@ -4827,7 +4823,7 @@ body {
 }
 
 .yk-content .mod-new .h h1 a:hover:after,.yk-content .mod-new .h h2 a:hover:after,.yk-content .mod-new .h h3 a:hover:after,.yk-content .mod-new .h h4 a:hover:after {
-	background: url(../images/g_0c02dfd.png) no-repeat -116px -26px
+	background:#fff;
 }
 
 .yk-content .mod-new .h h1 a.no-arrow:after,.yk-content .mod-new .h h2 a.no-arrow:after,.yk-content .mod-new .h h3 a.no-arrow:after,.yk-content .mod-new .h h4 a.no-arrow:after {
@@ -5047,7 +5043,7 @@ body {
 
 body {
 	font: 12px/20px "Microsoft YaHei",Lyh-Regular,helvetica,arial,sans-serif;
-	background-color: #f1f2f3
+	background-color: #edf2f7;
 }
 
 a {
