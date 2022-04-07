@@ -1,2 +1,2 @@
 # my.winpc.io
-this is winpc.com web
+this is www.winpc.com web
