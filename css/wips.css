@@ -4784,7 +4784,7 @@ body {
 .yk-content .mod-new {
 	padding:10px 20px 10px 20px;
 	background-color: #fff;
-	box-shadow: 0 0 8px 1px #ddd;
+	border: 1px solid rgba(0,0,0,.125);
 	MARGIN-TOP:30PX;
 }
 
